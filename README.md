@@ -40,8 +40,9 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 ---
 > Hi, Harry Potter!<br>
 > After copying the CSV files to a database in PGSQL through the psql shell, I will be reading into the file to obtain necessary information about harry potter:<br><br>
-> Yeah there was the potential of Harry Potter joining the house Slytherin because of some perceived propensities to darkness, but I did know he ended up in house Gryffindor but I had no idea of his wand(wood) or wand(core) let's have a SQL query to have more information;<br>
-
+> Yeah there was the potential of Harry Potter joining the house Slytherin because of some perceived propensities to darkness, but I did know he ended up in house Gryffindor but I had no idea of his wand(wood) or wand(core) let's have a SQL query to have more information;<br><br>
+> According to a digital company owned by J.K ROWLING 'pottermore' :<br>
+> <em> Wands are regarded as the "singular most important tools" that help to channel the inner abilities of each witch or wizard.</em> Knowing this, it's interesting to note what these wand features reveal about the book's key characters.
 
 
 
