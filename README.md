@@ -30,4 +30,7 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 ---
 > First we do some query to join tables.
 > * using [POSTGRESQL](https://www.postgresql.org/) throughout my analysis
-
+> * Created a database on PSQL AND THEN CREATED A TABLE HEADER
+> * Made use of SQl shell to copy each csv files to my database on PGAdmin <br>
+```CREATE DATABASE PROJECT.SQL```<br>
+```CREATE TABLE CHARACTER(CHARACTERID INT PRIMARY KEY,CHARACTERNAME VARCHAR(250),SPECIES VARCHAR(100),GENDER VARCHAR(150),HOUSE VARCHAR(150),PATRONUS VARCHAR(100),WANDWOOD VARCHAR(100),WANDCORE VARCHAR(100));``` <br>
