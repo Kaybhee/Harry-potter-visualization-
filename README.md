@@ -40,6 +40,7 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 ---
 Hi, Harry Potter!<br>
 After copying the CSV files to a database in PGSQL through the psql shell, I will be reading into the file to obtain necessary information about harry potter:<br>
+Yeah there was the potential of Harry Potter joining the house Slytherin because of some perceived propensities to darkness, but I did know he ended up in house Gryffindor but I had no idea of his wand(wood) or wand(core) let's have a SQL query to have more information;
 
 
 
