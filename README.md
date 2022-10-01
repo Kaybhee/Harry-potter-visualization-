@@ -38,3 +38,7 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 
 # HARRY POTTER AS A STAR CHARACTER NAME!
 ---
+Hi, Harry Potter!<br>
+After copying the CSV files to a database in PGSQL while using the psql shell, I will be reading into the file to obtain necessary information about harry potter:<br>
+
+
