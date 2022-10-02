@@ -42,7 +42,10 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 > After copying the CSV files to a database in PGSQL through the psql shell, I will be reading into the file to obtain necessary information about harry potter:<br><br>
 > Yeah there was the potential of Harry Potter joining the house Slytherin because of some perceived propensities to darkness, but I did know he ended up in house Gryffindor but I had no idea of his wand which is a holly wand with Phoenix feather as a core with excessive magical potential. let's have a SQL query to have more information;<br><br>
 > According to a digital company owned by J.K ROWLING 'pottermore' :<br>
-> <em> Wands are regarded as the "singular most important tools" that help to channel the inner abilities of each witch or wizard.</em> Knowing this, it's interesting to note what these wand features reveal about the book's key characters.
+> <em> Wands are regarded as the "singular most important tools" that help to channel the inner abilities of each witch or wizard.</em> Knowing this, it's interesting to note what these wand features reveal about the book's key characters.<br><br>
+# Harry Potter, How About Some Talk?
+---
+Its very important to know more about harry potter, more information could be obtained by joining the character table with the dialogue's table using some query in PSQL to join these tables. after making a join using the necessary SQL query language,then i can obtain everything that was said by harry potter:
 
 
 
