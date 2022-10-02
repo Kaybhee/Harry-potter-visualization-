@@ -51,5 +51,6 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 ---
 Its very important to know more about harry potter, more information could be obtained by joining the character table with the dialogue's table using some query in PSQL to join these tables. after making a join using the necessary SQL query language,then i can obtain everything that was said by harry potter:
 
-
+# How about some Spells with Harry Potter?
+> It is well documented on how powerful and sometimes dangerous he can be with his childhood encounter with Lord voldemort. he was something more than gifted, he was a special wizard but not too skilled with his spells. Let's find out the most spells that he pronounced often
 
