@@ -60,8 +60,8 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 > Now to obtain some intriguing insights, I generated a of charactersword cloud to see what harry potter says often and it was no surprises there are lots of words een said by him.<br>
 ![Screenshot (84)~3](https://user-images.githubusercontent.com/106836064/193939047-14829d4b-2d07-4f86-baa9-5dd40f80706c.png)<br><br>
 > Harry Potter is all about reaching out to people in search for knowledge, speaking on how he feels and what to do inorder to get better . His most used words are **"Hermione"** , **"Professor"**, **"know**", **"think"**, **"Now"**, **"One"**, **"Now"**,**"Sir"**,**"look"**, **"Draco malfoy and Voldemort"** his long time adverseries . There are words which are also prominent like **"come", "always", "thing", "brilliant", "really", "need", "Hagrid"**. Also Harry Potter goes to a place category named **"Hogwarts"** often.<br><br>
-> We were also able to return the name characters with the longest line of dialogue:<br>
-![Screenshot (87)~2](https://user-images.githubusercontent.com/106836064/193942012-95457f49-a77d-42b8-9756-ab5f9c03e0ec.png)
+> We were also able to return the name of characters with the longest line of dialogue:<br>
+> ![Screenshot (87)~2](https://user-images.githubusercontent.com/106836064/193942012-95457f49-a77d-42b8-9756-ab5f9c03e0ec.png)
 
 
 # How about some Spells with Harry Potter?
