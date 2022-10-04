@@ -48,7 +48,7 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 > Out[1]:<br>
 > |characterid | species|   gender  |  house    | patronus | charactername | wandwood |   wandcore      |
 > |------------|------- |-----------|-----------|----------|---------------|----------|-----------------|
-> |      1     |  Human |    Male   | Gryffindor|   Stag   |  Harry Potter |   Holly  | Phoenix Feather |
+> |           1 |  Human |    Male   | Gryffindor|   Stag   |  Harry Potter |   Holly  | Phoenix Feather |
 
 > Ollivander also said "holly wood wands work most happily for those who may need help overcoming a tendency to anger and impetuosity". This is not strange with Harry potter, Holly wand is always drawn to witches or wizards who are destined for greatness and wizards who have this tendencies/inclination to dangerous quest.<br>
 > According to a digital company owned by J.K ROWLING 'pottermore' :<br>
