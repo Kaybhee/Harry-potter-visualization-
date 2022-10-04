@@ -55,7 +55,14 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 > <em> Wands are regarded as the "singular most important tools" that help to channel the inner abilities of each witch or wizard.</em> Knowing this, it's interesting to note what these wand features reveal about the book's key characters.<br><br>
 # Harry Potter, How About Small Talk?
 ---
-Its very important to know more about harry potter, more information could be obtained by joining the character table with the dialogue's table using some query in PSQL to join these tables. after making a join using the necessary SQL query language,then i can obtain everything that was said by harry potter:
+> Its very important to know more about harry potter, more information could be obtained by joining the character table with the dialogue's table using some query in PSQL to join these tables. after making a join using the necessary SQL query language,then i can obtain everything that was said by harry potter:<br><br>
+![Screenshot (86)~2](https://user-images.githubusercontent.com/106836064/193938099-1e885bbf-58bf-4ce3-bea2-ee137fc8c724.png)<br><br>
+> Now to obtain some intriguing insights, I generated word cloud to see what harry potter says often and it was no surprises there are lots of words een said by him.<br>
+![Screenshot (84)~3](https://user-images.githubusercontent.com/106836064/193939047-14829d4b-2d07-4f86-baa9-5dd40f80706c.png)<br><br>
+> Harry Potter is all about reaching out to people in search for knowledge, speaking on how he feels and what to do inorder to get better . His most used words are **"Hermione"** , **"Professor"**, **"know**", **"think"**, **"Now"**, **"One"**, **"Now"**,**"Sir"**,**"look"**, **"Draco malfoy and Voldemort"** his long time adverseries . There are words which are also prominent like **"come", "always", "thing", "brilliant", "really", "need", "Hagrid"**. Also Harry Potter goes to a place category named **"Hogwarts"** often.<br>
+> We were also able to return the name characters with the longest line of dialogue:<br><br>
+![Screenshot (87)~2](https://user-images.githubusercontent.com/106836064/193942012-95457f49-a77d-42b8-9756-ab5f9c03e0ec.png)
+
 
 # How about some Spells with Harry Potter?
 > It is well documented on how powerful and sometimes dangerous he can be with his childhood encounter with Lord voldemort. he was something more than gifted, he was a special wizard but not too skilled with his spells. Let's find out the most spells that he pronounced often form his holly wand.
