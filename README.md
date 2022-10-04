@@ -44,10 +44,10 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 ![Screenshot (81)~2](https://user-images.githubusercontent.com/106836064/193435700-27e91d6e-02c9-4c69-87ce-12fdf5ad49fc.png) <br><br>
 ![Screenshot (81)~3](https://user-images.githubusercontent.com/106836064/193435712-0309f3ad-1e4f-4716-a07d-908f3a327089.png) <br><br>
 
-
+> ollivander also said "holly wood wands work most happily for those who may need help overcoming a tendency to anger and impetuosity". This is not strange with Harry potter, It is always drawn to witches or wizards
 > According to a digital company owned by J.K ROWLING 'pottermore' :<br>
 > <em> Wands are regarded as the "singular most important tools" that help to channel the inner abilities of each witch or wizard.</em> Knowing this, it's interesting to note what these wand features reveal about the book's key characters.<br><br>
-# Harry Potter, How About Some Talk?
+# Harry Potter, How About Small Talk?
 ---
 Its very important to know more about harry potter, more information could be obtained by joining the character table with the dialogue's table using some query in PSQL to join these tables. after making a join using the necessary SQL query language,then i can obtain everything that was said by harry potter:
 
