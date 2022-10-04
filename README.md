@@ -50,7 +50,7 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 > |------------|------- |-----------|-----------|----------|---------------|----------|-----------------|
 > |      1     |  Human |    Male   | Gryffindor|   Stag   |  Harry Potter |   Holly  | Phoenix Feather |
 
-> Ollivander also said "holly wood wands work most happily for those who may need help overcoming a tendency to anger and impetuosity". This is not strange with Harry potter, It is always drawn to witches or wizards who are destined for greatness and sometimes they tend to have this tendencies/inclination with dangerous quest.<br>
+> Ollivander also said "holly wood wands work most happily for those who may need help overcoming a tendency to anger and impetuosity". This is not strange with Harry potter, Holly wand is always drawn to witches or wizards who are destined for greatness and wizards who have this tendencies/inclination to dangerous quest.<br>
 > According to a digital company owned by J.K ROWLING 'pottermore' :<br>
 > <em> Wands are regarded as the "singular most important tools" that help to channel the inner abilities of each witch or wizard.</em> Knowing this, it's interesting to note what these wand features reveal about the book's key characters.<br><br>
 # Harry Potter, How About Small Talk?
