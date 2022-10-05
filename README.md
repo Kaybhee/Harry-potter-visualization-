@@ -69,12 +69,17 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 > It is well documented on how powerful and sometimes dangerous he can be with his childhood encounter with Lord voldemort. he was something more than gifted, he was a special wizard but not too skilled with his spells. Let's find out the most spells that he pronounced often form his holly wand.<br>
 
 
-
+# Most Prominent movie for Harry potter?
+> Now i want to obtain the movie Harry potter talked the most and least. To obtain this i must match the chapters table(the Dialogue table has a chapterkey) and the movies table to match the chapters to movie by id. <br><br> 
 
 # How About some Familiar Place?
 ---
 > Finally, we want to determine the Locations Harry potter can be found most often, No surprises he can be found mostly at Hogwarts. It's the main stage for all the movies and obviously Harry Potter would be found mostly there. Therefore, i would be removing Hogwarts as a category from the query and the aim is to obtain other categories where Harry potter can be located.<br>
 > The merging of the characters and places table has been done and we can obtain Harry potter most familiar places:<br><br>
-![Screenshot (90)](https://user-images.githubusercontent.com/106836064/194068783-fbb34099-a53a-4366-8bfa-bbbb73489e69.png)
+![Screenshot (90)](https://user-images.githubusercontent.com/106836064/194068783-fbb34099-a53a-4366-8bfa-bbbb73489e69.png)<br>
+#### Harry Potter's favourite Spots<br>
+> I will visualize to determine Harry Potter favourite spots in at least movie time:<br>
+#### Harry Potter's favourite type of Spots <br>
+> Now i would visualize the categories of spots Harry Potter can be located:
 
 
