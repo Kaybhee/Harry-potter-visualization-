@@ -32,10 +32,11 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 > * using [POSTGRESQL](https://www.postgresql.org/) throughout my analysis
 > * Created a database on PSQL AND THEN CREATED A TABLE HEADER
 > * Made use of SQl shell to copy each csv files to my database on PGAdmin <br>
+> There are several tables in the Harry Potter's dataset obtained from kaggle which includes characters,chapters,dialogues,place,movie and spells table, as a way of practice i would be using the PSQL shell to copy these tables individually to a database in postgresql.<br>
 1. ```CREATE DATABASE PROJECT.SQL```<br>
 2. ```CREATE TABLE CHARACTERS(CHARACTERID INT PRIMARY KEY,CHARACTERNAME VARCHAR(250),SPECIES VARCHAR(100),GENDER VARCHAR(150),HOUSE VARCHAR(150),PATRONUS VARCHAR(100),WANDWOOD VARCHAR(100),WANDCORE VARCHAR(100));``` <br>
 3. ```\C COPY CHARACTERS FROM 'FILEPATH' (FORMAT CSV, HEADER TRUE, DELIMETER ',', ENCODING UTF8);```<br>
-
+> This type of commands carried out using my psql shell would be recreated for subsequent tables.<br>
 # HARRY POTTER AS A STAR CHARACTER NAME!
 ---
 > Hi, Harry Potter!<br>
