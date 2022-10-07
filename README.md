@@ -79,6 +79,8 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 ![Screenshot (90)](https://user-images.githubusercontent.com/106836064/194068783-fbb34099-a53a-4366-8bfa-bbbb73489e69.png)<br>
 #### Harry Potter's favourite Spots<br>
 > I will visualize to determine Harry Potter favourite spots in at least movie time:<br>
+![Screenshot (103)](https://user-images.githubusercontent.com/106836064/194540757-4cfcb782-da43-4e5f-ad6c-ef1f0d4ce4cf.png)
+
 #### Harry Potter's favourite type of Spots <br>
 > Now i would visualize the categories of spots Harry Potter can be located:
 
