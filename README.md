@@ -78,9 +78,10 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 > The merging of the characters and places table has been done and we can obtain Harry potter most familiar places:<br><br>
 ![Screenshot (90)](https://user-images.githubusercontent.com/106836064/194068783-fbb34099-a53a-4366-8bfa-bbbb73489e69.png)<br>
 #### Harry Potter's favourite Spots<br>
-> I will visualize to determine Harry Potter favourite spots in at least movie time:<br>
+> I will visualize to determine Harry Potter favourite spots in at least movie time:<br><br>
 ![Screenshot (103)](https://user-images.githubusercontent.com/106836064/194540757-4cfcb782-da43-4e5f-ad6c-ef1f0d4ce4cf.png)
-
+> The highest of them all is the **The Hog's head** with 22% of all non Hogwarts for Harry Potter. With 45 **Dialogues**<br><br>
+> The Second most important Location is Budleigh Babberton with 20%
 #### Harry Potter's favourite type of Spots <br>
 > Now i would visualize the categories of spots Harry Potter can be located:
 
