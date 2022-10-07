@@ -82,7 +82,9 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 #### Harry Potter's favourite type of Spots <br>
 > Yes! we have obtained where Harry potter spent most of his time when out of hogwarts,  Now we need to categorize them using a tree map:<br><br>
 ![Screenshot (105)](https://user-images.githubusercontent.com/106836064/194547713-36bea7e8-a1f1-4b3f-a0ed-321f47d3f05e.png)<br><br>
-Notice how Harry Potter visits mostly **Dwellings** with 73 appearances, with Other magical Locations(unspecified locations) as the next mostly visited with 37 and **Diagon alley** closely followed with 36 appearances. Hogsmeade came last in th locations mostly Visited by Harry Potter.
+Notice how Harry Potter visits mostly **Dwellings** with 73 appearances, with Other magical Locations(unspecified locations) as the next mostly visited with 37 and **Diagon alley** closely followed with 36 appearances. Hogsmeade came last in th locations mostly Visited by Harry Potter.<br><br>
+# Yayy That's it!<br>
+> We have been able to Learn important information about Harry Potter, yeah it's a wrap!
 
 
 
