@@ -64,6 +64,8 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 
 # Most Prominent movie for Harry potter?<br>
 > Now i want to obtain the movie Harry potter talked the most and least. To obtain this i must match the chapters table(the Dialogue table has a chapterkey) and the movies table to match the chapters to movie by id. <br><br> 
+![Screenshot (107)](https://user-images.githubusercontent.com/106836064/194576505-4389e651-4e17-429e-84a2-62ce22be5724.png)
+
 
 # How About some Familiar Place?<br>
 > Finally, we want to determine the Locations Harry potter can be found most often, No surprises he can be found mostly at Hogwarts. It's the main stage for all the movies and obviously Harry Potter would be found mostly there. Therefore, i would be removing Hogwarts as a category from the query and the aim is to obtain other categories where Harry potter can be located.<br>
