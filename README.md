@@ -82,8 +82,10 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 ![Screenshot (103)](https://user-images.githubusercontent.com/106836064/194540757-4cfcb782-da43-4e5f-ad6c-ef1f0d4ce4cf.png)<br><br>
 > The highest of them all is the **"The Hog's head"** with 22% of in which they are all non Hogwarts for Harry Potter. With 45 **Dialogues!**<br>
 > The Second most important Location is shared with both Budleigh Babberton and Ollivanders having 20%<br><br>
-> In This visualization i only returned the top 4 location name with Harry Potter having the highest Dialogues. Honeydukes, Quidditch World cup and Ollivanders were not in the spotlight because they had lower percentages for where Harry potter could be found.<br><br>
+> In This visualization i only returned the top 4 location name with Harry Potter having the highest Dialogues. Honeydukes and Quidditch World cup were not in the spotlight because they had lower percentages for where Harry potter could be found.<br><br>
 #### Harry Potter's favourite type of Spots <br>
-> Now i would visualize the categories of spots Harry Potter can be located:
+> Now i would visualize the categories of spots Harry Potter can be located:<br>
+> ![Screenshot (105)](https://user-images.githubusercontent.com/106836064/194547713-36bea7e8-a1f1-4b3f-a0ed-321f47d3f05e.png)
+
 
 
