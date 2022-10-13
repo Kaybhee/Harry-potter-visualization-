@@ -51,8 +51,11 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 # Harry Potter, How About Small Talk?<br>
 > Its very important to know more about harry potter, more information could be obtained by joining the character table with the dialogue's table using some query in PSQL to join these tables. after making a join using the necessary SQL query language,then i can obtain everything that was said by harry potter:<br><br>
 ![Screenshot (86)~2](https://user-images.githubusercontent.com/106836064/193938099-1e885bbf-58bf-4ce3-bea2-ee137fc8c724.png)<br><br>
-> Now to obtain some intriguing insights, I generated a of charactersword cloud to see what harry potter says often and it was no surprises there are lots of words een said by him.<br>
-![Screenshot (84)~3](https://user-images.githubusercontent.com/106836064/193939047-14829d4b-2d07-4f86-baa9-5dd40f80706c.png)<br><br>
+> Now to obtain some intriguing insights, I generated a of characters word cloud to see what harry potter says often and it was no surprises there are lots of words said by him.<br>
+<p align="center"><img src="https://user-images.githubusercontent.com/106836064/193939047-14829d4b-2d07-4f86-baa9-5dd40f80706c.png" alt="word cloud"/>
+  
+  
+  
 > Harry Potter is all about reaching out to people in search for knowledge, speaking on how he feels and what to do inorder to get better . His most used words are **"Hermione"** , **"Professor"**, **"know**", **"think"**, **"Now"**, **"One"**, **"Now"**,**"Sir"**,**"look"**, **"Draco malfoy and Voldemort"** his long time adverseries . There are words which are also prominent like **"come", "always", "thing", "brilliant", "really", "need", "Hagrid"**. Also Harry Potter goes to a place category named **"Hogwarts"** often.<br><br>
 > We were also able to return the name of characters with the longest line of dialogue:<br>
 > ![Screenshot (87)~2](https://user-images.githubusercontent.com/106836064/193942012-95457f49-a77d-42b8-9756-ab5f9c03e0ec.png)<br><br>
@@ -72,7 +75,7 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 ![Screenshot (107)](https://user-images.githubusercontent.com/106836064/194576505-4389e651-4e17-429e-84a2-62ce22be5724.png)<br><br>
 ![Screenshot (92)](https://user-images.githubusercontent.com/106836064/194582123-c86b7eed-5a7a-4ab7-a3db-0e97a3693eed.png)<br>
 
-> <p align="center">Movies by Number of Harry Potter's Dialogue</p>
+>#### <p align="center">Movies by Number of Harry Potter's Dialogue</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/106836064/195569251-4f75778e-5329-4e80-ad03-24d6756390c8.png"/>
   </p>
 
