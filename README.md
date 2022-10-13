@@ -60,6 +60,10 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 
 # How about some Spells with Harry Potter?<br>
 > It is well documented on how powerful and sometimes dangerous he can be with his childhood encounter with Lord voldemort. he was something more than gifted, he was a special wizard but not too skilled with his spells. Let's find out the most spells that he pronounced often form his holly wand.<br><br>
+> <p align="center">Spells pronounced by Harry Potter using a Word Map</p>
+<p align="center"><image src="https://user-images.githubusercontent.com/106836064/195573255-4af419dd-fcc0-461d-b428-e318d86e54cd.png" /></p><br><br>
+Harry potter uses **ACCIO** a lot and it produces no color 
+
 
 
 # Most Prominent movie for Harry potter?<br>
