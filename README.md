@@ -82,13 +82,13 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 > Finally, we want to determine the Locations Harry potter can be found most often, No surprises he can be found mostly at Hogwarts. It's the main stage for all the movies and obviously Harry Potter would be found mostly there. Therefore, i would be removing Hogwarts as a category from the query and the aim is to obtain other categories where Harry potter can be located.<br>
 > The merging of the characters and places table has been done and we can obtain Harry potter most familiar places:<br><br>
 ![Screenshot (90)](https://user-images.githubusercontent.com/106836064/194068783-fbb34099-a53a-4366-8bfa-bbbb73489e69.png)<br><br>
-#### Harry Potter's favourite Spots<br>
+> #### Harry Potter's favourite Spots<br>
 > I will visualize to determine Harry Potter favourite spots in at least movie time:<br><br>
 ![Screenshot (103)](https://user-images.githubusercontent.com/106836064/194540757-4cfcb782-da43-4e5f-ad6c-ef1f0d4ce4cf.png)<br><br>
 > The highest of them all is the **"The Hog's head"** with 22% of in which they are all non Hogwarts for Harry Potter. With 45 **Dialogues!**<br>
 > The Second most important Location is shared with both Budleigh Babberton and Ollivanders having 20%<br><br>
 > In This visualization i only returned the top 4 location name with Harry Potter having the highest Dialogues. Honeydukes and Quidditch World cup were not in the spotlight because they had lower percentages for where Harry potter could be found.<br><br>
-#### Harry Potter's favourite type of Spots <br>
+> #### Harry Potter's favourite type of Spots <br>
 > Yes! we have obtained where Harry potter spent most of his time when out of hogwarts,  Now we need to categorize them using a tree map:<br><br>
 ![Screenshot (105)](https://user-images.githubusercontent.com/106836064/194547713-36bea7e8-a1f1-4b3f-a0ed-321f47d3f05e.png)<br><br>
 Notice how Harry Potter visits mostly **Dwellings** with 73 appearances, with Other magical Locations(unspecified locations) as the next mostly visited with 37 and **Diagon alley** closely followed with 36 appearances. Hogsmeade came last in th locations mostly Visited by Harry Potter.<br><br>
