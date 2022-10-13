@@ -65,7 +65,11 @@ It's no news who the star actor was in the harry potter series, right? if u didn
 # Most Prominent movie for Harry potter?<br>
 > Now i want to obtain the movie Harry potter talked the most and least. To obtain this i must match the chapters table(the Dialogue table has a chapterkey) and the movies table to match the chapters to movie by id. <br><br> 
 ![Screenshot (107)](https://user-images.githubusercontent.com/106836064/194576505-4389e651-4e17-429e-84a2-62ce22be5724.png)<br><br>
-![Screenshot (92)](https://user-images.githubusercontent.com/106836064/194582123-c86b7eed-5a7a-4ab7-a3db-0e97a3693eed.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/106836064/194582123-c86b7eed-5a7a-4ab7-a3db-0e97a3693eed.png)<br>
+
+> <p align="center">Movies by Number of Harry Potter's Dialogue</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/106836064/195569251-4f75778e-5329-4e80-ad03-24d6756390c8.png"/>
+  </p>
 
 
 
